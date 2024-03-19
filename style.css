@@ -31,5 +31,13 @@
     }
 .escola-conteudo{
     width: 35%;
-
+}
+.escola-titulo{
+  padding: 24px 0;
+}
+body{
+   font-family: 'Poppies' , sans-serif;
+}
+.estudante-imagem{
+  width: 120px;
 }
