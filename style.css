@@ -41,9 +41,8 @@ body{
 .estudante-imagem{
   width: 370px;
 }
-.estudante-ícone{
+.estudante-icone{
   width: 20%;
-  text-align: center;
 
 }
 .estudante-div{
@@ -51,5 +50,5 @@ body{
 }
 .estudante-todos{
   display: grid;
-  grid-template-columns: 20% 20% 20% 20%;
+  grid-template-columns: 20% 50% 20% 20%;
 }
