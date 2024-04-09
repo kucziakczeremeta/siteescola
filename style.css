@@ -42,7 +42,9 @@ body{
   width: 120px;
 }
 .estudante-icone{
-  width: 24px;
+  width: 20%;
+  text-align: center;
+
 }
 .estudante-div{
   text-align: center;
